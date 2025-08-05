@@ -1,6 +1,7 @@
 # API Animais
+<img width="1006" height="544" alt="image" src="https://github.com/user-attachments/assets/00c47a0d-1161-45c6-8035-ebdadc1805cd" />
 
-<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/89008549-e948-4413-b93c-53803c9a559a" />
+
 
 
 #
@@ -32,7 +33,7 @@ git clone https://github.com/mariaclarareginato/api.animais.git
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd api.animais
+cd api.mysql
 ```
 
 
@@ -54,6 +55,7 @@ npm run dev
 O servidor iniciará em http://localhost:3000.
 
 
+5. **No MySQL, Abra o arquivo 'database2.sql' e o execute.**
 
 
 ## Rotas da API:
