@@ -1,6 +1,6 @@
 # API Animais
 
-A **API Animais** é um projeto desenvolvido para gerenciar informações sobre diferentes tipos de animais de estimação. Ela oferece endpoints para **leitura, criação, atualização e exclusão (CRUD)** de dados dos animais, como nome, espécie, idade e outras características.
+A **API Animais** é um projeto desenvolvido para gerenciar informações sobre diferentes tipos de animais de estimação. Ela oferece endpoints para **leitura, criação, atualização e exclusão (CRUD)** de dados dos animais, como tipo, raça, nome, e cuidados e características.
 
 Este projeto é ideal para fins educacionais, demonstrações ou como base para sistemas de adoção, clínicas veterinárias ou zoológicos.
 
